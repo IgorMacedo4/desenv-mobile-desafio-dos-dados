@@ -1,0 +1,28 @@
+1 Rolagem de Dados
+O sistema deve simular a rolagem de três dados de seis faces para cada jogador.
+
+2 Cálculo da Soma
+O sistema deve calcular a soma dos valores obtidos nos três dados para cada jogador.
+
+3 Determinação do Vencedor
+O sistema deve comparar as somas dos dois jogadores e informar se houve ganhador (e
+quem foi) ou se houve empate.
+
+4 Interação do Usuário
+Os usuários devem escolher quantas rodadas querem jogar.
+O sistema deve mostrar os valores obtidos em cada dado, a soma total e o vencedor da
+rodada.
+
+5 Placar
+O sistema deve manter um placar das vitórias do usuário, das vitórias do computador e
+dos empates.
+
+6 Vencedor Final
+Após todas as rodadas serem jogadas, o sistema deve anunciar o vencedor com base no
+placar de vitórias.
+
+7 Desafios Opcionais (ponto extra na nota da prova)
+O sistema deve permitir que o usuário utilize um "dado mágico" uma vez por jogo. O
+"dado mágico" pode dobrar a soma total ou reduzi-la pela metade. Quando o usuário
+decide utilizá-lo, o sistema sorteia um valor entre 0 e 1. Se der 0, a soma total da rodada
+é reduzida pela metade. Se der 1, a soma total da rodada é dobrada.
